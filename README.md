@@ -42,11 +42,11 @@ An aspiring Full Stack Developer from India. <br> <br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tejaspedge&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
- -->
+
 
 ## 🏆 GitHub Trophies
 
