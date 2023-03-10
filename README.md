@@ -28,7 +28,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-22844a257)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibyendu-nath-002/)
 
 # 🧑‍💻👩‍💻 Tech Stack:
 
