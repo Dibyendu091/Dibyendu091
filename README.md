@@ -2,7 +2,8 @@
 
 🔭 I’m currently studying at Masai School(MERN)<br>👯 I’m looking to collaborate on software developer-related react.js<br>🤝 I’m looking for help with learning react.js and node .js<br>🌱 I’m currently learning full-stack web development<br>💬 Ask me about java-Script, react.js, redux<br>⚡ Fun fact- still I love to travel 🌐
 
-## My Portfolio : "https://dibyendu091.github.io"
+## My Portfolio : 
+<a href='https://dibyendu091.github.io'>"https://dibyendu091.github.io"</a>
 
 ## 🌐 Socials:
 
