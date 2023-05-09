@@ -52,7 +52,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-![](https://github-profile-trophy.vercel.app/?username=Suraj121704c&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Dibyendu091c&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
