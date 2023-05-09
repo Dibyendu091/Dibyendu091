@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Full Stack Web-development** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 📫 How to reach me **atanu.karmakar201@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 📫 How to reach me **dibyendunath001@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PHEsPfjmZZhiL5WFU7xja5g7Pd8kCJN9/view?usp=share_link)
 
